@@ -1,15 +1,15 @@
 # [Overview](overview/overview.md)
+## # [Sovereign deployments](concepts/deployments.md)
 # Basics
 ## [Authenticate users](authorization/auth_overview.md)
 ### [Permission scopes](authorization/permission_scopes.md)
-### [Call Microsoft Graph in a service or daemon app](authorization/app_only.md)
+### [Service or daemon apps](authorization/app_only.md)
 ### [Azure AD v2.0 endpoint](authorization/converged_auth.md)
 ### [Register your application ](authorization/auth_register_app_v2.md)
 ### [Azure AD](authorization/app_authorization.md)
 ## [Call the API](overview/call_api.md)
-## [Optional query parameters](overview/query_parameters.md)
+## [Use optional query parameters](overview/query_parameters.md)
 ## [Page Microsoft Graph data](overview/paging.md)
-## [Sovereign deployments](overview/deployments.md)
 ## [Troubleshoot errors](overview/errors.md)
 # Common tasks
 # Features and services
@@ -22,7 +22,7 @@
 ### [Get changes to messages (preview)](concepts/delta_query_messages.md)
 ### [Get changes to users (preview)](concepts/delta_query_users.md)
 ## [Excel]()
-# [Hybrid deployments (preview)](overview/hybrid_rest_support.md)
+# [Hybrid deployments (preview)](concepts/hybrid_rest_support.md)
 # Partner framework
 # [Known issues](overview/release_notes.md)
 # [Changelog](overview/changelog.md)
