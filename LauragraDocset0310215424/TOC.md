@@ -1,5 +1,5 @@
 # [Overview](overview/overview.md)
-## # [Sovereign deployments](concepts/deployments.md)
+## [Sovereign deployments](concepts/deployments.md)
 # Basics
 ## [Authenticate users](authorization/auth_overview.md)
 ### [Permission scopes](authorization/permission_scopes.md)
