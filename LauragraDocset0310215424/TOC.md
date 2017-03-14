@@ -22,6 +22,13 @@
 ### [Get changes to messages (preview)](concepts/delta_query_messages.md)
 ### [Get changes to users (preview)](concepts/delta_query_users.md)
 ## [Excel](api-reference/v1.0/resources/excel.md)
+### [Chart functions](concepts/excel_chart_functions.md)
+### [Named item functions](concepts/excel_named_item_functions.md)
+### [Null functions](concepts/excel_null_functions.md)
+### [Range functions](concepts/excel_range_functions.md)
+### [Table functions](concepts/excel_table_functions.md)
+### [Workbook functions](concepts/excel_workbook_functions.md)
+### [Worksheet functions](concepts/excel_worksheet_functions.md)
 # [Hybrid deployments (preview)](concepts/hybrid_rest_support.md)
 # Partner framework
 # [Known issues](overview/release_notes.md)
