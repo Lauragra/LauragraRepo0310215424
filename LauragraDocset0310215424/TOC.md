@@ -1,18 +1,20 @@
 # [Overview](overview/overview.md)
-# Basics
+# Understand the API
 ## [Access data in sovereign cloud deployments](concepts/deployments.md)
-## [Authenticate users](authorization/auth_overview.md)
-### [Permission scopes](authorization/permission_scopes.md)
-### [Service or daemon apps](authorization/app_only.md)
-### [Azure AD v2.0 endpoint](authorization/converged_auth.md)
-### [Register your application ](authorization/auth_register_app_v2.md)
-### [Azure AD](authorization/app_authorization.md)
 ## [Call the API](overview/call_api.md)
 ## [Use optional query parameters](overview/query_parameters.md)
 ## [Page Microsoft Graph data](overview/paging.md)
 ## [Troubleshoot errors](overview/errors.md)
 # Common tasks
-# Features and services
+# Use the API
+## [Authentication](authorization/auth_overview.md)
+### [Permissions](authorization/permission_scopes.md)
+#### [Permission definitions]
+### [Service or daemon apps](authorization/app_only.md)
+### [Azure AD v2.0 endpoint](authorization/converged_auth.md)
+### [Register your application ](authorization/auth_register_app_v2.md)
+### [Azure AD](authorization/app_authorization.md)
+# Access features and services
 ## [Data extensions](concepts/extensibility_overview.md)
 ### [Add custom data using open extensions (preview)](concepts/extensibility_open_users.md)
 ### [Add custom data using schema extensions (preview)](concepts/extensibility_schema_groups.md)
@@ -21,7 +23,7 @@
 ### [Get changes to groups (preview)](concepts/delta_query_groups.md)
 ### [Get changes to messages (preview)](concepts/delta_query_messages.md)
 ### [Get changes to users (preview)](concepts/delta_query_users.md)
-## [Excel](concpets/excel_overview.md)
+## [Excel](concepts/excel_overview.md)
 ### [Chart functions](concepts/excel_chart_functions.md)
 ### [Named item functions](concepts/excel_named_item_functions.md)
 ### [Null functions](concepts/excel_null_functions.md)
@@ -121,7 +123,7 @@
 ### [Get permission](api-reference/v1.0/api/permission_get.md)
 ### [Update permission](api-reference/v1.0/api/permission_update.md)
 ### [Delete permission](api-reference/v1.0/api/permission_delete.md)
-## [Excel](api-reference/v1.0/api/excel.md)
+## [Excel](api-reference/v1.0/resources/excel.md)
 ### [workbook](api-reference/v1.0/resources/workbook.md)
 #### [List tables](api-reference/v1.0/api/workbook_list_tables.md)
 #### [List worksheets](api-reference/v1.0/api/workbook_list_worksheets.md)
