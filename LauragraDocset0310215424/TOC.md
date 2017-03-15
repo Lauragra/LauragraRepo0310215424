@@ -29,7 +29,8 @@
 ### [Table functions](concepts/excel_table_functions.md)
 ### [Workbook functions](concepts/excel_workbook_functions.md)
 ### [Worksheet functions](concepts/excel_worksheet_functions.md)
-# [Hybrid deployments (preview)](concepts/hybrid_rest_support.md)
+## [Outlook]()
+### [Use REST APIs in hybrid deployments (preview)](concepts/hybrid_rest_support.md)
 # Partner framework
 # [Known issues](overview/release_notes.md)
 # [Changelog](overview/changelog.md)
