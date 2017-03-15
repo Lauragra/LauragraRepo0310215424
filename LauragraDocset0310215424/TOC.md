@@ -13,7 +13,7 @@
 ### [Register your application ](authorization/auth_register_app_v2.md)
 ### [Azure AD](authorization/app_authorization.md)
 ## [Permissions](authorization/permission_scopes.md)
-## [Permission definitions]
+## [Permission definitions]()
 # Features and services
 ## [Data extensions](concepts/extensibility_overview.md)
 ### [Add custom data using open extensions (preview)](concepts/extensibility_open_users.md)
