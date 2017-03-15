@@ -1,6 +1,6 @@
 # [Overview](overview/overview.md)
-## [Sovereign deployments](concepts/deployments.md)
 # Basics
+## [Access data in sovereign cloud deployments](concepts/deployments.md)
 ## [Authenticate users](authorization/auth_overview.md)
 ### [Permission scopes](authorization/permission_scopes.md)
 ### [Service or daemon apps](authorization/app_only.md)
