@@ -1,20 +1,20 @@
 # [Overview](overview/overview.md)
-# Understand the API
+# Using the API
 ## [Access data in sovereign cloud deployments](concepts/deployments.md)
 ## [Call the API](overview/call_api.md)
 ## [Use optional query parameters](overview/query_parameters.md)
 ## [Page Microsoft Graph data](overview/paging.md)
 ## [Troubleshoot errors](overview/errors.md)
 # Common tasks
-# Use the API
+# Concepts
 ## [Authentication](authorization/auth_overview.md)
-### [Permissions](authorization/permission_scopes.md)
-#### [Permission definitions]
 ### [Service or daemon apps](authorization/app_only.md)
 ### [Azure AD v2.0 endpoint](authorization/converged_auth.md)
 ### [Register your application ](authorization/auth_register_app_v2.md)
 ### [Azure AD](authorization/app_authorization.md)
-# Access features and services
+## [Permissions](authorization/permission_scopes.md)
+## [Permission definitions]
+# Features and services
 ## [Data extensions](concepts/extensibility_overview.md)
 ### [Add custom data using open extensions (preview)](concepts/extensibility_open_users.md)
 ### [Add custom data using schema extensions (preview)](concepts/extensibility_schema_groups.md)
