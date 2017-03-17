@@ -38,7 +38,6 @@
 ## [Outlook]()
 ## [Webhooks](api-reference/v1.0/resources/webhooks.md)
 ### [Use REST APIs in hybrid deployments (preview)](concepts/hybrid_rest_support.md)
-# Partner framework
 # [Known issues](overview/release_notes.md)
 # [Changelog](overview/changelog.md)
 # Reference
