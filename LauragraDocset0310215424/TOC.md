@@ -2,7 +2,7 @@
 # Using the API
 # Common tasks
 # Concepts
-## [Access data in sovereign cloud deployments](concepts/deployments.md)
+## [Accessing data in sovereign cloud deployments](concepts/deployments.md)
 ## [Authorization](authorization/auth_overview.md)
 ### [Service or daemon apps](authorization/app_only.md)
 ### [Azure AD v2.0 endpoint](authorization/converged_auth.md)
@@ -10,10 +10,14 @@
 ### [Azure AD](authorization/app_authorization.md)
 ### [Permissions](authorization/permission_scopes.md)
 ### [Permission definitions]()
+## [Batching request]()
 ## [Calling the API](overview/call_api.md)
 ## [Paging data](overview/paging.md)
+## [Syncing changes]()
+## [Throttling]()
 ## [Troubleshooting errors](overview/errors.md)
 ## [Using optional query parameters](overview/query_parameters.md)
+## [Versioning]()
 # Features and services
 ## [Data extensions](concepts/extensibility_overview.md)
 ### [Add custom data using open extensions (preview)](concepts/extensibility_open_users.md)
@@ -32,6 +36,7 @@
 ### [Workbook functions](concepts/excel_workbook_functions.md)
 ### [Worksheet functions](concepts/excel_worksheet_functions.md)
 ## [Outlook]()
+## [Webhooks](api-reference/v1.0/resources/webhooks.md)
 ### [Use REST APIs in hybrid deployments (preview)](concepts/hybrid_rest_support.md)
 # Partner framework
 # [Known issues](overview/release_notes.md)
