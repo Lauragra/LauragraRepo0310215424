@@ -36,8 +36,8 @@
 ### [Workbook functions](concepts/excel_workbook_functions.md)
 ### [Worksheet functions](concepts/excel_worksheet_functions.md)
 ## [Outlook]()
-## [Webhooks](api-reference/v1.0/resources/webhooks.md)
 ### [Use REST APIs in hybrid deployments (preview)](concepts/hybrid_rest_support.md)
+## [Webhooks](api-reference/v1.0/resources/webhooks.md)
 # [Known issues](overview/release_notes.md)
 # [Changelog](overview/changelog.md)
 # Reference
