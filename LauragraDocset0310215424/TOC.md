@@ -1,5 +1,5 @@
 # [Overview](overview/overview.md)
-# Using the API
+# [Using the API](overview/call_api.md)
 # Common tasks
 # Concepts
 ## [Accessing data in sovereign cloud deployments](concepts/deployments.md)
@@ -11,7 +11,6 @@
 ### [Permissions](authorization/permission_scopes.md)
 ### [Permission definitions]()
 ## [Batching request]()
-## [Calling the API](overview/call_api.md)
 ## [Paging data](overview/paging.md)
 ## [Syncing changes]()
 ## [Throttling]()
