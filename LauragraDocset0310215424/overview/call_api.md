@@ -1,4 +1,4 @@
-# Calling the Microsoft Graph API
+# Using the Microsoft Graph API
 
 To access and manipulate a Microsoft Graph resource, you call and specify the resource URLs using one of the following operations:   
 
