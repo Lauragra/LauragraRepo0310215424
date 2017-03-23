@@ -7,10 +7,10 @@ For a conceptual overview and examples that show you how to work with Excel in M
 
 Microsoft Graph supports the following Excel resources on the v1.0 endpoint:
 
-[Workbook](workbook.md)
-[Worksheet](worksheet.md)
-[Range](range.md)
-[Table](table.md)
-[Chart](chart.md)
-[Named item](nameditem.md)
+- [Workbook](workbook.md)
+- [Worksheet](worksheet.md)
+- [Range](range.md)
+- [Table](table.md)
+- [Chart](chart.md)
+- [Named item](nameditem.md)
 
