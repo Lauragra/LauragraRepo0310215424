@@ -17,8 +17,7 @@
 ## [Troubleshooting errors](overview/errors.md)
 ## [Using optional query parameters](overview/query_parameters.md)
 ## [Versioning]()
-# Features and services
-## [Attachments](api-reference/v1.0/resources/attachment.md)
+# Data sets
 ## [Azure AD]()
 ## [Data extensions](concepts/extensibility_overview.md)
 ### [Add custom data using open extensions (preview)](concepts/extensibility_open_users.md)
@@ -375,7 +374,7 @@
 ### [Drive](api-reference/v1.0/resources/drive.md)
 ### [Get drive](api-reference/v1.0/api/drive_get.md)
 ### [List children](api-reference/v1.0/api/item_list_children.md)
-## [Directory](api-reference/v1.0/resources/directoryobject.md)
+## [Azure AD](api-reference/v1.0/resources/directoryobject.md)
 ### [Directory object](api-reference/v1.0/resources/directoryobject.md)
 ### [Get directoryObject](api-reference/v1.0/api/directoryobject_get.md)
 ### [Delete directoryObject](api-reference/v1.0/api/directoryobject_delete.md)
