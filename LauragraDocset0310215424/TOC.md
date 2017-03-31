@@ -647,7 +647,7 @@
 ### [Reference attachment resource](api-reference/beta/resources/referenceattachment.md)
 ### [Get attachment](api-reference/beta/api/attachment_get.md)
 ### [Delete attachment](api-reference/beta/api/attachment_delete.md)
-## [Outlook mail](api-reference/beta/resources/message.md)
+## [Outlook mail](api-reference/beta/resources/mail_api_overview.md)
 ### [Message](api-reference/beta/resources/message.md)
 #### [List messages](api-reference/beta/api/user_list_messages.md)
 #### [Create message](api-reference/beta/api/user_post_messages.md)
