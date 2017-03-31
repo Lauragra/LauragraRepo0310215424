@@ -5,12 +5,5 @@ returns a collection of worksheet objects that are part of the workbook. The [Wo
 
 For a conceptual overview and examples that show you how to work with Excel in Microsoft Graph, see [Working with Excel](../concepts/excel.md).
 
-Microsoft Graph supports the following Excel resources on the v1.0 endpoint:
 
-- [Workbook](workbook.md)
-- [Worksheet](worksheet.md)
-- [Range](range.md)
-- [Table](table.md)
-- [Chart](chart.md)
-- [Named item](nameditem.md)
 

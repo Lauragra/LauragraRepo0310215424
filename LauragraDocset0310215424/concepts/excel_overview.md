@@ -97,4 +97,13 @@ Content-Type: application/json
   }
 }
 ```
+## Next steps
 
+Explore the resources and APIs that you can access via Microsoft Graph:
+
+- [Workbook](workbook.md)
+- [Worksheet](worksheet.md)
+- [Range](range.md)
+- [Table](table.md)
+- [Chart](chart.md)
+- [Named item](nameditem.md)
