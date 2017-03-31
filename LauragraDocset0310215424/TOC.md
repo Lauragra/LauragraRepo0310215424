@@ -4,7 +4,7 @@
 # Concepts
 ## [Adding custom data](concepts/extensibility_overview.md)
 ### [Add custom data using open extensions (preview)](concepts/extensibility_open_users.md)
-### [Add custom data using schema extensions (preview)](concepts/extensibility_schema_groups.md)## [Authorization](authorization/auth_overview.md)
+### [Add custom data using schema extensions (preview)](concepts/extensibility_schema_groups.md)
 ## [Authorization](authorization/auth_overview)
 ### [Service or daemon apps](authorization/app_only.md)
 ### [Azure AD v2.0 endpoint](authorization/converged_auth.md)
