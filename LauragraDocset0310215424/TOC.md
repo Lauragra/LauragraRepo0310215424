@@ -3,7 +3,7 @@
 # [Authenticate and authorize users](authorization/auth_overview)
 ## [Get a token for a signed-in user]()
 ## [Get a token for a service or daemon app](authorization/app_only.md)
-## [Get a token for a CSP app]
+## [Get a token for a CSP app]()
 ## [Permissions](authorization/permission_scopes.md)
 ## [Permission definitions]()
 ## [Manage apps]()
@@ -25,7 +25,7 @@
 # [Add custom data](concepts/extensibility_overview.md)
 ## [Open extensions (preview)](concepts/extensibility_open_users.md)
 ## [Schema extensions (preview)](concepts/extensibility_schema_groups.md)
-# [Access data in different deployments]
+# [Access data in different deployments]()
 ## [Sovereign deployments](concepts/deployments.md)
 ## [Hybrid deployments (preview)](concepts/hybrid_rest_support.md)
 # [Known issues](overview/release_notes.md)
