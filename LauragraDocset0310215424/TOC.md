@@ -1,5 +1,6 @@
 # [Overview](overview/overview.md)
 # Common tasks
+# [Build your first app]()
 # [Authenticate and authorize users](authorization/auth_overview)
 ## [Get a token for a signed-in user]()
 ## [Get a token for a service or daemon app](authorization/app_only.md)
