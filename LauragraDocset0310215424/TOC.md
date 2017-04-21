@@ -37,7 +37,7 @@
 ## [On-premises (preview)](concepts/hybrid_rest_support.md)
 # [Known issues](overview/release_notes.md)
 # [Changelog](overview/changelog.md)
-
+<!-- Placeholder - ignore
 # Features and services
 ## [Azure AD]()
 ## [Excel](concepts/excel_overview.md)
@@ -48,7 +48,7 @@
 ## [Outlook mail]()
 ## [Personal contact]()
 ## [Users]()
-
+-->
 # v1.0 Reference
 ## [Azure AD](api-reference/v1.0/resources/directoryobject.md)
 ### [Directory object](api-reference/v1.0/resources/directoryobject.md)
