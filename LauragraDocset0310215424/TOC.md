@@ -9,7 +9,6 @@
 ## [Register your app]()
 ## [Get access on behalf of users]()
 ## [Get access as a service](authorization/app_only.md)
-## [Get a token for a CSP app]()
 ## [Permissions](authorization/permission_scopes.md)
 ## [Enable single sign-on]()
 ## [Manage app access (ITPros)]()
