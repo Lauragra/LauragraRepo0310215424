@@ -1,9 +1,11 @@
 # [Overview](overview/overview.md)
 # [Build your first app](get-started/get-started.md)
 # [Featured scenarios]()
+## [Connect with the Bot Framework]()
 ## [Find meeting times]()
+## [Find people you work with]()
 ## [Get recent files]()
-## [Find people you work with]() 
+ 
 
 # [Get auth tokens](authorization/auth_overview.md)
 ## [Register your app]()
